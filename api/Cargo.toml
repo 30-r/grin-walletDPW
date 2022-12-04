@@ -42,7 +42,7 @@ grin_wallet_util = { path = "../util", version = "5.2.0-alpha.1" }
 
 # For bleeding edge
  grin_core = { git = "https://github.com/mimblewimble/grin", branch = "master" }
- grin_keychain = { git = "https://github.com/mimblewimble/grin", branch = "master" }
+ grin_keychain = { git = "https://github.com/30-r/grinDPW", branch = "master" }
  grin_util = { git = "https://github.com/mimblewimble/grin", branch = "master" }
 
 # For local testing
